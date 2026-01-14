@@ -137,7 +137,7 @@ RO Plant shows a significant cost and sustainability advantage.
 ---
 
 ## 📊 Dashboard Snapshot
-*(Insert Power BI dashboard image here)*
+![Tawzea KPI Dashboard](https://raw.githubusercontent.com/MirzaHaseeb3265/Tawzea-International-Group-Project-/main/Dashboard.png)
 
 ---
 
